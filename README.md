@@ -8,7 +8,7 @@ Para más información sobre como mejorar, ampliar o personalizar un proyecto si
 
 # Macroeconomic series dashboard with Shiny.app
 
-The following project shows one of the ways to create a dashboard with shiny app and r. To exemplify the creation, the data from the Monthly Index of Economic Activity published by the [Central Bank of Nicaragua (CBN)] (https://bcn.gob.ni/) were used.
+The following project shows one of the ways to create a dashboard with shiny app and r. To exemplify the creation, the data from the Monthly Index of Economic Activity published by the [Central Bank of Nicaragua (CBN)](https://bcn.gob.ni/) were used.
 
 ## How to replicate the project?
 If you want to use the following project, you must download all the published files and place them in the same folder, making sure that the directory of the script is the same as the data.
