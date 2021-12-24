@@ -1,5 +1,5 @@
 # Dashboard de series macroeconómicas con Shiny.app
-El siguiente [proyecto](https://raul-godinez.shinyapps.io/dashboard_macro/) muestra de una de las formas de crear un dashboard con shiny app y r. Para ejemplificar la creación se utilizaron los datos del Índice Mensual de la Actividad Económica publicados por el [Banco Central de Nicaragua (BCN)](https://bcn.gob.ni/)
+El siguiente [proyecto](https://raul-godinez.shinyapps.io/dashboard_macro/) muestra una de las formas de crear un dashboard con shiny app y r. Para ejemplificar la creación se utilizaron los datos del Índice Mensual de la Actividad Económica publicados por el [Banco Central de Nicaragua (BCN)](https://bcn.gob.ni/)
 
 ## ¿Cómo replicar el proyecto?
 Si deseas utilizar el siguiente proyecto debes descargar todos los archivos publicados y ubicarlos en una misma carpeta, asegurandote de que el directorio del script sea el mismo de los datos. 
